@@ -5,6 +5,7 @@
 #include "BloomFilter.h"
 #include "SkipList.h"  // Nodes.h
 
+// Implement hashtable for multiple types without using tamplates
 
 /*  Type could be:
 *   BloomFilter
