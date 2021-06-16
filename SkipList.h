@@ -24,7 +24,7 @@ class SkipList {
         int countStatusByCountry(char* country, Date* date1, Date* date2);
         int countStatusByCountry (char* country);
         int* countStatusBy_Age_Country (char* country, char* virusName, Date* date1, Date* date2);  
-        int* countStatusBy_Age_Country(char* country);      //gia tous total_num_yes
+        int* countStatusBy_Age_Country(char* country);      //for the total numbers of yes
         int* countStatusBy_Age_Country_NoVacc (char* country);
         int countStatusByCountry_NoVacc(char* country);
 
