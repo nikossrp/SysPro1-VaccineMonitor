@@ -31,10 +31,10 @@ typedef struct {
 
 }Statistics;
 
-// consistence ws pros tin morfh tou date
+// consistence of the date format
 bool consistentDate_str (char* date);
 
-// consistence ws pros tous arithmous tou date
+// consistence of the numbers in date
 bool consistentDate (Date* date);
 
 // count the words in a string based on spaces
