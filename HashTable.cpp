@@ -68,7 +68,7 @@ void* HashTable::Insert(void* item)
 
         NodeHT* temp = (NodeHT*)Array[hashValue];
 
-        while (temp && temp->next != NULL) {  //phgaine sto telos tis listas
+        while (temp && temp->next != NULL) {  //go to the last node
             temp = temp->next;
         }
 
