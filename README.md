@@ -26,16 +26,16 @@ print the percentages  of citizens who have been vaccinated on [date1, date2] fo
 /populationStatus virusName date1 date2 </br>
 print the percentages of citizens who have been vaccinated on [date1,date2] for every country in our dataset (in the same format as the previous command)
 
-/insertCitizenRecord citizenID firstName lastName country age virusName YES/NO [date]
-insert a record. 
+/insertCitizenRecord citizenID firstName lastName country age virusName YES/NO [date] </br>
+insert a record. </br>
 note: if the citizen has been vaccinated, you must insert the date of vaccination.
 
-/vaccinateNow citizenID firstName lastName country age virusName
+/vaccinateNow citizenID firstName lastName country age virusName </br>
 insert a vaccine on the current date
 
-/list-nonVaccinated-Persons virusName
+/list-nonVaccinated-Persons virusName </br>
 print out all citizens who have not been vaccinated against the virus
 
-/exit
+/exit </br>
 Exit from application </br>
 free memory
