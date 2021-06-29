@@ -12,12 +12,12 @@ make
 <p>/vaccineStatusBloom citizenID virusName <br/>
 print No/Yes</p>
 
-/vaccineStatus citizenID  <br/>
+/vaccineStatus citizenID  </br>
 print all vaccinations for the citizen with citizenID
 
-/populationStatus country virusName date1 date2 <br/>
+/populationStatus country virusName date1 date2 </br>
 print the percentage  of citizens who have been vaccinated on [date1, date2] for the country
-Ι distinguish the following age groups for every country: <br\>
+Ι distinguish the following age groups for every country: </br>
 20-40 years old <br\>
 40-60 years old <br\>
 60+ years old <br\>
@@ -37,5 +37,5 @@ insert a vaccine on the current date
 print out all citizens who have not been vaccinated against the virus
 
 /exit
-Exit from application <br\>
+Exit from application </br>
 free memory
