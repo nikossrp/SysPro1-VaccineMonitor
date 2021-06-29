@@ -34,7 +34,7 @@ note: if the citizen has been vaccinated, you must insert the date of vaccinatio
 insert a vaccine on the current date
 
 /list-nonVaccinated-Persons virusName </br>
-print out all citizens who have not been vaccinated against the virus
+print all citizens who have not been vaccinated against the virus
 
 /exit </br>
 Exit from application </br>
