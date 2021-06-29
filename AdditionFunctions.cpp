@@ -29,7 +29,7 @@ bool consistentDate_str(char* date) {
 // consistence for the date
 bool consistentDate(Date* date)
 {
-    time_t t = time(0);   // get time now
+    time_t t = time(0);   // get current time
     struct tm * now = localtime( & t );
     int day = now->tm_mday;
     int month = now->tm_mon + 1;
