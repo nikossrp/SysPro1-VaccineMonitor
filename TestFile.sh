@@ -6,8 +6,8 @@
 #   same citizenID-firstName-...-Age -> 50% when doublicatesAllowed
 #   
 ### inconsistent records ###
-#   idia citizenID mono
-#   idia citizenID + virusName
+#   same citizenID mono
+#   same citizenID + virusName
 #   NO vaccinate + date -> 2% probability
 #   [ Date > today date ]
 
