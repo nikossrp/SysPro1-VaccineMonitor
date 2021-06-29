@@ -9,8 +9,6 @@ make
  
 <h3><p>Commands</h3></p>
 
-Anything in brackets is optional
-
 <p>/vaccineStatusBloom citizenID virusName <br/>
 print No/Yes</p>
 
