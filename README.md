@@ -16,7 +16,7 @@ print No/Yes</p>
 print all vaccinations for the citizen with citizenID
 
 /populationStatus country virusName date1 date2 </br>
-print the percentage  of citizens who have been vaccinated on [date1, date2] for the country
+print the percentages  of citizens who have been vaccinated on [date1, date2] for the country
 Ι distinguish the following age groups for every country: </br>
 20-40 years old </br>
 40-60 years old </br>
@@ -24,7 +24,7 @@ print the percentage  of citizens who have been vaccinated on [date1, date2] for
 
 
 /populationStatus virusName date1 date2 </br>
-print the percentage of citizens who have been vaccinated on [date1,date2] for every country in our dataset (in the same format as the previous command)
+print the percentages of citizens who have been vaccinated on [date1,date2] for every country in our dataset (in the same format as the previous command)
 
 /insertCitizenRecord citizenID firstName lastName country age virusName YES/NO [date]
 insert a record. 
